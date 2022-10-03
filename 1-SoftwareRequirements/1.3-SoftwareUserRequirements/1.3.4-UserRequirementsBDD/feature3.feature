@@ -1,4 +1,4 @@
-Function: Answer technical questions
+Feature: Answer technical questions
 In order to communicate with technical support of the service, use online chat, leave feedback about the employee
 As an office worker
 I want to receive technical questions via Online Messaging,
