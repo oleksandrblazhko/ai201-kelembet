@@ -1,4 +1,4 @@
-Function: User authorization
+Feature: User authorization
 To register
 As an unauthorized user
 I want to complete the registration, fill in the e-mail, password fields, or register using the Facebook social network, 
