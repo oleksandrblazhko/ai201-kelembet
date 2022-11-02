@@ -29,19 +29,9 @@
             <td colspan="3">Продаж власних скульптур</td>
         </tr>
         <tr>
-            <td align="center">FR2.1</td>
-            <td>Будь-який користувач може пройти процедуру актуалізації даних задля отримання права авторства на власні скульптурм</td>
-            <td>User</td><td>requestRole()</td>
-        </tr>
-        <tr>
             <td align="center">FR2.2</td>
             <td>Автори можуть завантажувати до системи власні скульптури</td>
             <td>Sculpture</td><td>requestSaving()</td>
-        </tr>
-        <tr>
-            <td align="center">FR2.3</td>
-            <td>Завантажена авторами скульптур повинна пройти процес перевірки адміністратором</td>
-            <td>Sculpture</td><td>findRequests()</td>
         </tr>
         <tr>
             <td align="center">FR2.4</td>
@@ -72,11 +62,6 @@
             <td align="center">FR2.9</td>
             <td>Автор отримує кошти за придбану користувачами скульптуру на власний баланс</td>
             <td>User</td><td>getBalance()</td>
-        </tr>
-        <tr>
-            <td align="center">FR2.10</td>
-            <td>Автор може вивести гроші з власного балансу на картку банку, сплативши комісію сервісу</td>
-            <td>User</td><td>exchange()</td>
         </tr>
     </tbody>
 </table>
