@@ -1,7 +1,6 @@
 @startuml
 
 title Activity Diagram of Sculpture.publish() method
-
 start
 
 :The program finds certain sculpture in the system; 
