@@ -3,7 +3,6 @@
 title Usecase for Information system
 
 ' left to right direction
-
 actor Користувач
 actor Гість
 actor :Сервіс Е-Pay:
