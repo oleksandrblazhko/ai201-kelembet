@@ -4,8 +4,8 @@ title Example of Relation Schema
 
 hide circle
 
-entity "Role" as tr {
-    (PK) role_id
+entity "Autentification" as tr {
+    (PK) User_id
     --
     name
 }
@@ -13,10 +13,9 @@ entity "Role" as tr {
 entity "User" as tu {
     (PK) user_id
     --
-    (FK) role_id
-    name
-    surname
-    balance
+    (FK) parameters_id
+    email
+    password
 }
 
 entity "Users_Sculpture" as tul {
