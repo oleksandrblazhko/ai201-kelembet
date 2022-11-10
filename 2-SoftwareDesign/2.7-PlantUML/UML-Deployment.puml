@@ -3,7 +3,6 @@
 title UML-діаграма розгортання ПП
 
 left to right direction
-
 skinparam componentStyle uml1
 
 node "<<Smartphone>>" as smrtphn1 {
